@@ -2,6 +2,9 @@
 
 # Dryer UI
 
+   [Watch IDRY add here!]( https://drive.google.com/file/d/19xSpI4DP6jGpAROpBmUB9yx7PvIYE5Mp/view?usp=sharing) 
+
+
 DryerUI is an android application which simplifies and beautifies the UI of an existing Miele home dryer. The goal of this university semester assignment is to teach good UI appearance principles and meticulous project design.
 
 ## Design model
